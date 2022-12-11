@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    
+    
+    
+    <link>https://RobertasPavlovskis.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Dec 2022 01:21:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://RobertasPavlovskis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post</title>
+      <link>https://RobertasPavlovskis.github.io/posts/post/</link>
+      <pubDate>Mon, 12 Dec 2022 01:21:25 +0200</pubDate>
+      
+      <guid>https://RobertasPavlovskis.github.io/posts/post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Cia yra mano blogas. Ir tai yra pirmas mano postas.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
